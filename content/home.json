@@ -1,5 +1,10 @@
 {
   "meta_title": "",
   "meta_description": "",
-  "sections": []
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-de-site.png"
+    }
+  ]
 }
