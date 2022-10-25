@@ -10,7 +10,7 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1,
+      "page": 4,
       "sort": "news",
       "collection_id": "61de07040c7c7272250233a5:categories:Ferramentas:/ferramentas"
     }
