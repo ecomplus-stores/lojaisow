@@ -3,10 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-de-site.png"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
